@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 1e6bf74b5c297bc45821f7b0de1d8575
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyFrontAmmoPos: {instanceID: 0}
+  - enemyBackAmmoPos: {instanceID: 0}
+  - enemyFrontAmmoShellPos: {instanceID: 0}
+  - enemyBackAmmoShellPos: {instanceID: 0}
+  - KaotiJaios4AmmoPrefab: {fileID: 7160857523213335040, guid: 271a29db6b5ded64ba94a987eff77ad2, type: 3}
+  - KaotiJaios4Ammo2Prefab: {fileID: 4139337791487116334, guid: 9e9b06943ea513c439cac8b986e6e3a1, type: 3}
+  - KaotiJaios4Shell1Prefab: {fileID: 2737713573079704035, guid: 37dc420210c9d674b888978787f49980, type: 3}
+  - KaotiJaios4Shell2Prefab: {fileID: 6145614412479127318, guid: 2256acb26cda5fa4e8f3b9c0d298bf5d, type: 3}
+  - smokePrefab: {instanceID: 0}
+  - smokePos: {instanceID: 0}
+  - smoke2Prefab: {instanceID: 0}
+  - smoke2Pos: {instanceID: 0}
+  - gunSmokePrefab: {instanceID: 0}
+  - gunSmokePos: {instanceID: 0}
+  - gunSmoke2Prefab: {instanceID: 0}
+  - gunSmoke2Pos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
